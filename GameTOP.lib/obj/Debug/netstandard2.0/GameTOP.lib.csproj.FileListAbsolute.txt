@@ -1,0 +1,12 @@
+C:\Users\reiss\OneDrive\Documentos\Estudos\UDF\8º Semestre\AspNetCoreAngulaWebAPI\GameTOP.lib\bin\Debug\netstandard2.0\GameTOP.lib.deps.json
+C:\Users\reiss\OneDrive\Documentos\Estudos\UDF\8º Semestre\AspNetCoreAngulaWebAPI\GameTOP.lib\bin\Debug\netstandard2.0\GameTOP.lib.dll
+C:\Users\reiss\OneDrive\Documentos\Estudos\UDF\8º Semestre\AspNetCoreAngulaWebAPI\GameTOP.lib\bin\Debug\netstandard2.0\GameTOP.lib.pdb
+C:\Users\reiss\OneDrive\Documentos\Estudos\UDF\8º Semestre\AspNetCoreAngulaWebAPI\GameTOP.lib\bin\Debug\netstandard2.0\GameTOP.Interface.dll
+C:\Users\reiss\OneDrive\Documentos\Estudos\UDF\8º Semestre\AspNetCoreAngulaWebAPI\GameTOP.lib\bin\Debug\netstandard2.0\GameTOP.Interface.pdb
+C:\Users\reiss\OneDrive\Documentos\Estudos\UDF\8º Semestre\AspNetCoreAngulaWebAPI\GameTOP.lib\obj\Debug\netstandard2.0\GameTOP.lib.csprojAssemblyReference.cache
+C:\Users\reiss\OneDrive\Documentos\Estudos\UDF\8º Semestre\AspNetCoreAngulaWebAPI\GameTOP.lib\obj\Debug\netstandard2.0\GameTOP.lib.AssemblyInfoInputs.cache
+C:\Users\reiss\OneDrive\Documentos\Estudos\UDF\8º Semestre\AspNetCoreAngulaWebAPI\GameTOP.lib\obj\Debug\netstandard2.0\GameTOP.lib.AssemblyInfo.cs
+C:\Users\reiss\OneDrive\Documentos\Estudos\UDF\8º Semestre\AspNetCoreAngulaWebAPI\GameTOP.lib\obj\Debug\netstandard2.0\GameTOP.lib.csproj.CoreCompileInputs.cache
+C:\Users\reiss\OneDrive\Documentos\Estudos\UDF\8º Semestre\AspNetCoreAngulaWebAPI\GameTOP.lib\obj\Debug\netstandard2.0\GameTOP.lib.csproj.CopyComplete
+C:\Users\reiss\OneDrive\Documentos\Estudos\UDF\8º Semestre\AspNetCoreAngulaWebAPI\GameTOP.lib\obj\Debug\netstandard2.0\GameTOP.lib.dll
+C:\Users\reiss\OneDrive\Documentos\Estudos\UDF\8º Semestre\AspNetCoreAngulaWebAPI\GameTOP.lib\obj\Debug\netstandard2.0\GameTOP.lib.pdb

@@ -11,3 +11,8 @@ C:\Users\reiss\OneDrive\Documentos\Estudos\UDF\8º Semestre\AspNetCoreAngulaWebA
 C:\Users\reiss\OneDrive\Documentos\Estudos\UDF\8º Semestre\AspNetCoreAngulaWebAPI\GameTOP\obj\Debug\netcoreapp3.1\GameTOP.dll
 C:\Users\reiss\OneDrive\Documentos\Estudos\UDF\8º Semestre\AspNetCoreAngulaWebAPI\GameTOP\obj\Debug\netcoreapp3.1\GameTOP.pdb
 C:\Users\reiss\OneDrive\Documentos\Estudos\UDF\8º Semestre\AspNetCoreAngulaWebAPI\GameTOP\obj\Debug\netcoreapp3.1\GameTOP.genruntimeconfig.cache
+C:\Users\reiss\OneDrive\Documentos\Estudos\UDF\8º Semestre\AspNetCoreAngulaWebAPI\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.Interface.dll
+C:\Users\reiss\OneDrive\Documentos\Estudos\UDF\8º Semestre\AspNetCoreAngulaWebAPI\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.lib.dll
+C:\Users\reiss\OneDrive\Documentos\Estudos\UDF\8º Semestre\AspNetCoreAngulaWebAPI\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.lib.pdb
+C:\Users\reiss\OneDrive\Documentos\Estudos\UDF\8º Semestre\AspNetCoreAngulaWebAPI\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.Interface.pdb
+C:\Users\reiss\OneDrive\Documentos\Estudos\UDF\8º Semestre\AspNetCoreAngulaWebAPI\GameTOP\obj\Debug\netcoreapp3.1\GameTOP.csproj.CopyComplete
