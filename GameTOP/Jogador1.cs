@@ -4,7 +4,7 @@ namespace GameTOP
     {
         public readonly string _Nome;
 
-        public Jogador1(string nome)
+        public Jogador1(string nome = "Ronaldo")
         {
             _Nome = nome;
         }
