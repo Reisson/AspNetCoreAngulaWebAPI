@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "h2NZcjyoxyy7TGJtaAKYESPRoDHtZdk8l8wWtyT/2Y18IXWw27esGNLOWq40lZFLgAZ6h+RiOnD7O3rFFcx1Uw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\reiss\\OneDrive\\Documentos\\Estudos\\UDF\\8º Semestre\\AspNetCoreAngulaWebAPI\\GameTOP.Interface\\GameTOP.Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\reiss\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\reiss\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
