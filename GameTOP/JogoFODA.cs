@@ -2,9 +2,9 @@ namespace GameTOP
 {
     public class JogoFODA
     {
-        private readonly Jogador _Jogador;
+        private readonly iJogador _Jogador;
 
-        public JogoFODA(Jogador jogador)
+        public JogoFODA(iJogador jogador)
         {
             _Jogador = jogador;
         }

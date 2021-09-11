@@ -1,28 +1,28 @@
 namespace GameTOP
 {
-    public class Jogador1
+    public class Jogador1 : iJogador
     {
         public readonly string _Nome;
 
-        public Jogador(string nome)
+        public Jogador1(string nome)
         {
             _Nome = nome;
         }
 
         //Chuta
-        public void Chuta()
+        public string Chuta()
         {
-            .Write($"{_Nome} está Chutando \n");
+            return $"{_Nome} está Chutando \n";
         }
         //Corre
-        public void Corre()
+        public string Corre()
         {
-            .Write($"{_Nome} está Correndo \n");
+            return $"{_Nome} está Correndo \n";
         }
         //Passe
-        public void Passe()
+        public string Passe()
         {
-            .Write($"{_Nome} está Passando \n");
+            return $"{_Nome} está Passando \n";
         }
     }
 }
